@@ -1,0 +1,162 @@
+body {
+	background-color: lightblue;
+}
+
+.header {
+	font-size: 35;
+	font-family: arial;
+	padding: 30px;
+	border: 15px;
+	background-color: darkslategray;
+	color: white;
+	border-radius: 10px;
+}
+
+#btn1 {
+	background-color: gray;
+	margin: 10px;
+	font-size: 20px;
+	border-width: 5px;
+	border-color: navy;
+	border-radius: 20px;
+	font-family: Arial, Helvetica, sans-serif;
+	padding: 10px;
+}
+
+#btn2 {
+	background-color: gray;
+	margin: 10px;
+	font-size: 20px;
+	border-width: 5px;
+	border-color: navy;
+	border-radius: 20px;
+	font-family: Arial, Helvetica, sans-serif;
+	padding: 10px;
+}
+
+#btn3 {
+	background-color: gray;
+	margin: 10px;
+	font-size: 20px;
+	border-width: 5px;
+	border-color: navy;
+	border-radius: 20px;
+	font-family: Arial, Helvetica, sans-serif;
+	padding: 10px;
+}
+
+#btn4 {
+	background-color: gray;
+	margin: 10px;
+	font-size: 20px;
+	border-width: 5px;
+	border-color: navy;
+	border-radius: 20px;
+	font-family: Arial, Helvetica, sans-serif;
+	padding: 10px;
+}
+
+#div5 {
+	background-color: darkcyan;
+	padding: 5px;
+	border-radius: 20px;
+	text-align: center;
+}
+
+p {
+	margin-top: 10px;
+}
+
+.container {
+	background-color: white;
+	display: flex;
+	text-align: left;
+	align-items: center;
+	justify-content: center;
+	background-color: lightblue;
+}
+
+footer {
+	background-color: darkcyan;
+	text-align: center;
+    padding: 10px;
+    color: white;
+    display: block;
+    bottom: 0;
+	font-size: 20px;
+    width: 100%;
+	border-radius: 20px;
+	font-family: Georgia;
+}
+
+h3 {
+	color: white;
+	font-family: monospace;
+}
+
+#img1 {
+	margin-right: 120px;
+}
+
+#intro {
+	background-color: darkcyan;
+	border: 10px;
+	border-radius: 10px;
+	padding: 15px;
+	font-size: 25;
+}
+
+#div2 {
+	text-align: left;
+}
+
+#KC {
+	background-color: darkcyan;
+	border: 10px;
+	border-radius: 10px;
+	padding: 15px;
+	font-size: 25px;
+}
+
+#img2 {
+	margin-left: 120px;
+}
+
+marquee {
+	text-align: center;
+	scroll-behavior: scroll;
+}
+
+#App {
+	background-color: darkcyan;
+	border: 10px;
+	border-radius: 10px;
+	padding: 15px;
+	font-size: 25px;
+}
+
+#img3 {
+	margin-right: 120px;
+}
+
+#div3 {
+	margin: 120px;
+	margin-top: 50px;
+}
+
+#EV {
+	background-color: darkcyan;
+	border: 10px;
+	border-radius: 10px;
+	padding: 15px;
+	font-size: 25px;
+}
+ 
+#img4 {
+	margin-left: 120px;
+}
+
+#div4 {
+	margin: 120px;
+	margin-top: 50px;
+}
